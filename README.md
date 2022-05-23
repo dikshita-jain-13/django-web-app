@@ -1,4 +1,4 @@
-# Django-WebApp       <img alt="GitHub" src="https://img.shields.io/github/license/dikshita-jain-13/Django-WebApp">
+# Django-WebApp      
 
 
 This project was done by me as a assignment for an internship.
