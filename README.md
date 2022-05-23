@@ -1,25 +1,6 @@
 # Django-WebApp      
 
-
-This project was done by me as a assignment for an internship.
-
-<h2>Assignment Problem Statement:</h2>
-
-<h4>Part 1:</h4>
-<ol>
-    <li>Create a web-app where a user can login.</li>
-    <li>User can upload files.</li>
-    <li>User can view his/her uploaded files.</li>
-</ol>
-
-<h4>Part 2:</h4>
-<ol>
-     <li>User can search and view profile of other users.</li>
-     <li>They can share their uploaded files with any of those users.</li>
-     <li>Users can see the shared files by other users also in uploaded files.</li>
-</ol>
-
-<h4>Additional Features:</h4>
+<h4>Features:</h4>
 <ol>
     <li>User can upload files.</li>
     <li>User can view his/her uploaded files.</li>
